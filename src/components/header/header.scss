@@ -1,0 +1,5 @@
+@use "../../scss/" as *;
+.header {
+    background-color: $primary-color;
+    height: $header-height;
+}

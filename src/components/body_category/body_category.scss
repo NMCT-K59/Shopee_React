@@ -1,0 +1,50 @@
+@use "../../scss/" as *;
+
+.bg-body {
+    background-color: #f5f5f5;
+}
+.image-tang {
+    padding: 20px 0;
+}
+
+.body_category {
+    background-color: #fff;
+    &-title {
+        background: #fff;
+        height: 60px;
+        border-bottom: 1px solid rgba(0,0,0,.05);
+        font-size: 17px;
+        line-height: 60px;
+        padding-left: 20px;
+        color: rgba(0,0,0,.54);
+
+    }
+    &-list {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+    }
+    &-item {
+        padding: 8px 0;
+        text-align: center;
+        border: 1px solid rgba(0,0,0,.05);
+        cursor: pointer;
+        &:hover {
+            transform: translateZ(0);
+            z-index: 1;
+            border-color: rgba(0,0,0,.12);
+            box-shadow: 0 0 0.8125rem 0 rgb(0 0 0 / 5%);
+        }
+        img {
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 83.3px;
+            margin: 0 auto;
+            margin-bottom: 10px;
+        }
+        span {
+            font-size: 14px;
+            line-height: 20px;
+            color: rgba(0,0,0,.8);
+        }
+    }
+}
