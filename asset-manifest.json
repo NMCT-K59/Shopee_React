@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Shopee_React/static/css/main.4ed4e979.chunk.css",
+    "main.js": "/Shopee_React/static/js/main.51557afc.chunk.js",
+    "main.js.map": "/Shopee_React/static/js/main.51557afc.chunk.js.map",
+    "runtime-main.js": "/Shopee_React/static/js/runtime-main.e0a7be7a.js",
+    "runtime-main.js.map": "/Shopee_React/static/js/runtime-main.e0a7be7a.js.map",
+    "static/css/2.893ed7de.chunk.css": "/Shopee_React/static/css/2.893ed7de.chunk.css",
+    "static/js/2.623646e2.chunk.js": "/Shopee_React/static/js/2.623646e2.chunk.js",
+    "static/js/2.623646e2.chunk.js.map": "/Shopee_React/static/js/2.623646e2.chunk.js.map",
+    "index.html": "/Shopee_React/index.html",
+    "static/css/2.893ed7de.chunk.css.map": "/Shopee_React/static/css/2.893ed7de.chunk.css.map",
+    "static/css/main.4ed4e979.chunk.css.map": "/Shopee_React/static/css/main.4ed4e979.chunk.css.map",
+    "static/js/2.623646e2.chunk.js.LICENSE.txt": "/Shopee_React/static/js/2.623646e2.chunk.js.LICENSE.txt",
+    "static/media/image1.7dcf67a1.jfif": "/Shopee_React/static/media/image1.7dcf67a1.jfif",
+    "static/media/image2.780deabf.jfif": "/Shopee_React/static/media/image2.780deabf.jfif",
+    "static/media/image3.e77d0eef.jfif": "/Shopee_React/static/media/image3.e77d0eef.jfif",
+    "static/media/image4.ce44a47e.jfif": "/Shopee_React/static/media/image4.ce44a47e.jfif",
+    "static/media/image5.873ce0ff.jfif": "/Shopee_React/static/media/image5.873ce0ff.jfif",
+    "static/media/image6.7e11b6f6.jfif": "/Shopee_React/static/media/image6.7e11b6f6.jfif",
+    "static/media/no_card.1ad4dc8d.JPG": "/Shopee_React/static/media/no_card.1ad4dc8d.JPG",
+    "static/media/notify.7cf62f91.png": "/Shopee_React/static/media/notify.7cf62f91.png",
+    "static/media/slick-theme.css": "/Shopee_React/static/media/slick.c94f7671.ttf",
+    "static/media/techzone.e199635e.png": "/Shopee_React/static/media/techzone.e199635e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a7be7a.js",
+    "static/css/2.893ed7de.chunk.css",
+    "static/js/2.623646e2.chunk.js",
+    "static/css/main.4ed4e979.chunk.css",
+    "static/js/main.51557afc.chunk.js"
+  ]
+}
